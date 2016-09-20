@@ -22,7 +22,7 @@ $date = "2015-03-01";
 $time = strtotime("$date -2 month");
 
 echo date("Y-m-d\n", $time);
-echo "line: " . __LINE__ . "\n";
+//echo "line: " . __LINE__ . "\n";
 
 // $url = "http://ircs.p5w.net/ircs/interaction/queryQuestionByGszz.do";
 // get_http_data($url);
