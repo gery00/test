@@ -1,3 +1,7 @@
 This is a test file!
 For git .
-Add on master branch
+<<<<<<< HEAD
+Add just for test 
+=======
+Add just for test 
+>>>>>>> fea
