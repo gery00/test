@@ -1,7 +1,5 @@
 This is a test file!
 For git .
-<<<<<<< HEAD
 Add just for test 
 =======
 Add just for test 
->>>>>>> fea
